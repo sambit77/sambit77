@@ -1,6 +1,5 @@
 ### Hi there 👋
-*So your __search__ ends here .. ?*
-
+*Your __search__ doesn't ends here ...*
 <!--
 **sambit77/sambit77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 How to reach me ? :- __[LinkedIn](https://www.linkedin.com/in/sambit77/) | [HackerRank](https://www.hackerrank.com/sambit7)__
+📫 Connect with me :- __[LinkedIn](https://www.linkedin.com/in/sambit77/) | [HackerRank](https://www.hackerrank.com/sambit7)__
