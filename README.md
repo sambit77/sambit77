@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - [Portfolio](https://sambit-pradhan.netlify.app/)
-📫 Connect with me :- __[LinkedIn](https://www.linkedin.com/in/sambit77/) | [HackerRank](https://www.hackerrank.com/sambit7)__
+- 📫 Connect with me :- __[LinkedIn](https://www.linkedin.com/in/sambit77/) | [HackerRank](https://www.hackerrank.com/sambit7)__
