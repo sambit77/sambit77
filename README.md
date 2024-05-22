@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 Currently working at [Deloitte](https://www2.deloitte.com/ui/en.html)
-- 
 - 📫 Languages: `Java` `Python`
 - 📫 Backend Development: `Spring` `Springboot` `Junit` `Mockito`
 - 📫 Database : `MySQL` `MongoDB` `Postgresql` `Redis`
