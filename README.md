@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working at [Deloitte](https://www2.deloitte.com/ui/en.html)
-- - 📫 Skills summary: Sprring & springboot, Junit, Mockito, 
+- 🔭 Currently working at [Deloitte](https://www2.deloitte.com/ui/en.html)
+- 
+- 📫 Languages: `Java` `Python`
+- 📫 Backend Development: `Spring` `Springboot` `Junit` `Mockito`
+- 📫 Database : `MySQL` `MongoDB` `Postgresql` `Redis`
+- 📫 Other Tools : `AWS Cloud` `Docker` `Kubernetes` `Git`
+- 📫 Courseworks : `SOLID Principles` `OOPs` `Design Patterns` `Data structure & Alogorithms`
 
-- 💬 Ask me about ...
 - [Portfolio](https://sambit-pradhan.netlify.app/)
-- 📫 Connect with me :- __[LinkedIn](https://www.linkedin.com/in/sambit77/) | [HackerRank](https://www.hackerrank.com/sambit7)__
+- 💬 Connect with me :- __[LinkedIn](https://www.linkedin.com/in/sambit77/) | [HackerRank](https://www.hackerrank.com/sambit7)__
