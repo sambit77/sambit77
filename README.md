@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 📫 Database : `MySQL` `MongoDB` `Postgresql` `Redis`
 - 📫 Other Tools : `AWS Cloud` `Docker` `Kubernetes` `Git`
 - 📫 Courseworks : `SOLID Principles` `OOPs` `Design Patterns` `Data structure & Alogorithms`
+- 📫 Certification : [`AWS Certified Cloud Practitioner`](https://www.credly.com/badges/12fe1cfa-e746-470d-83ed-c19ef0d74b36/linked_in_profile)
 
-- [Portfolio](https://sambit-pradhan.netlify.app/)
+- [Portfolio ©2020](https://sambit-pradhan.netlify.app/)
 - 💬 Connect with me :- __[LinkedIn](https://www.linkedin.com/in/sambit77/) | [HackerRank](https://www.hackerrank.com/sambit7)__
