@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/sambit77">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambit77&theme=light&count_private=true&layout=compact" alt="Sambit's most used languages" />
 </a>
+
 <a href="https://github.com/sambit77">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sambit77&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Sambit's github stats"/>
+ <img align="center" 
+src="https://github-readme-stats.vercel.app/api?username=sambit77&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Sambit's github stats"/>
 </a>
 
