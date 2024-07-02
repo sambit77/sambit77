@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 src="https://github-readme-stats.vercel.app/api?username=sambit77&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Sambit's github stats"/>
 </a>
 
+<img src = "https://github-readme-stats.vercel.app/api?username=sambit77&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs"/>
+
