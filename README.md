@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Currently working at [Deloitte](https://www2.deloitte.com/ui/en.html)
+- 🔭 Currently working at [PeerIslands](https://www.peerislands.io/) | Ex-[Deloitte](https://www2.deloitte.com/ui/en.html)
 - 📫 Languages: `Java` 
 - 📫 Backend Development: `Spring` `Springboot` `Microservices Architecture` `Junit` `Spring Data JPA` `Spring Security OAuth2` `Spring Cloud Gateway`
 - 📫 Database : `MySQL` `MongoDB` `Postgresql` `Redis`
